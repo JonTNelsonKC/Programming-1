@@ -1,0 +1,81 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		7945D90F25EC328000210970 /* mathTutorjonathannelson.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = mathTutorjonathannelson.cpp; sourceTree = "<group>"; };
+		79EF426725E436090060DAE6 /* TestRectanglejonathannelson.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TestRectanglejonathannelson.cpp; sourceTree = "<group>"; };
+		79EF426825E4366B0060DAE6 /* Rectanglejonathannelson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Rectanglejonathannelson.h; sourceTree = "<group>"; };
+		79EF426925E437860060DAE6 /* switchStatementExample.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = switchStatementExample.cpp; sourceTree = "<group>"; };
+		79EF426A25E43C780060DAE6 /* Rectanglejonathannelson.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Rectanglejonathannelson.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		79EF426025E435EE0060DAE6 = {
+			isa = PBXGroup;
+			children = (
+				7945D90F25EC328000210970 /* mathTutorjonathannelson.cpp */,
+				79EF426A25E43C780060DAE6 /* Rectanglejonathannelson.cpp */,
+				79EF426925E437860060DAE6 /* switchStatementExample.cpp */,
+				79EF426725E436090060DAE6 /* TestRectanglejonathannelson.cpp */,
+				79EF426825E4366B0060DAE6 /* Rectanglejonathannelson.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		79EF426125E435EE0060DAE6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1240;
+			};
+			buildConfigurationList = 79EF426425E435EE0060DAE6 /* Build configuration list for PBXProject "Homework4" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 79EF426025E435EE0060DAE6;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		79EF426525E435EE0060DAE6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		79EF426625E435EE0060DAE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		79EF426425E435EE0060DAE6 /* Build configuration list for PBXProject "Homework4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79EF426525E435EE0060DAE6 /* Debug */,
+				79EF426625E435EE0060DAE6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 79EF426125E435EE0060DAE6 /* Project object */;
+}

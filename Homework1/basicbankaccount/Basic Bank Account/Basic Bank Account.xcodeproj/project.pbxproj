@@ -1,0 +1,77 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		79113DA525C33BB000BF5333 /* basicbankaccount.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = basicbankaccount.cpp; sourceTree = "<group>"; };
+		79113DA625C33BB000BF5333 /* basicbankaccount.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = basicbankaccount.hpp; sourceTree = "<group>"; };
+		79113DA725C3400000BF5333 /* Account.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Account.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		79113D9E25C33BA200BF5333 = {
+			isa = PBXGroup;
+			children = (
+				79113DA525C33BB000BF5333 /* basicbankaccount.cpp */,
+				79113DA625C33BB000BF5333 /* basicbankaccount.hpp */,
+				79113DA725C3400000BF5333 /* Account.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		79113D9F25C33BA200BF5333 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1230;
+			};
+			buildConfigurationList = 79113DA225C33BA200BF5333 /* Build configuration list for PBXProject "Basic Bank Account" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 79113D9E25C33BA200BF5333;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		79113DA325C33BA200BF5333 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		79113DA425C33BA200BF5333 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		79113DA225C33BA200BF5333 /* Build configuration list for PBXProject "Basic Bank Account" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79113DA325C33BA200BF5333 /* Debug */,
+				79113DA425C33BA200BF5333 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 79113D9F25C33BA200BF5333 /* Project object */;
+}

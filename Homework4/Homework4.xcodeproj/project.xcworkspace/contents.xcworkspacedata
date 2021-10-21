@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../lab7part2jonathannelson.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jontnelsonkc/Desktop/Prog1/Homework4/lab7part1jonathannelson.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../LogicalOperators.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Rectanglejonathannelson.cpp">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>

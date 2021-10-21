@@ -1,0 +1,18 @@
+Lab 10
+
+Array named userNumbersArray with 20 integer data members
+
+For (I=0; I < 20; I++)
+	{Print “Enter in 20 numbers between 0 and 101
+	 User inputs a number
+	 do{
+	 	if(number is between 0 and 101){
+			if(number isn’t a duplicate){
+			assign number to n[i]
+			}
+		}
+		else{
+			Print “Number not between 0 and 101, enter a different number”
+	while(number >= 101) && (number <= 0)
+Sort userNumbersArray from least to greatest
+Print all the elements of userNumbersArray (which would now be in numerical order).
